@@ -1,6 +1,8 @@
 package com.appstory.gittest
 
-class ContentActivity
+import androidx.appcompat.app.AppCompatActivity
+
+class ContentActivity : AppCompatActivity()
 {
 
 
